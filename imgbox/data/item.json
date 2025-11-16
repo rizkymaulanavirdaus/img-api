@@ -1,0 +1,96 @@
+{
+    "item" : [
+        {
+            "id": 1,
+            "title":"bubblewrap",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/bubble1.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/bubble2.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/bubble3.jpeg"
+            ]
+        },
+        {
+            "id": 2,
+            "title":"clothing",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/cloth1..jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/cloth2..jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/cloth3..jpeg"
+            ]
+        },
+        {
+            "id": 3,
+            "title":"cookies",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/cookies1.png",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/cookies2.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/cookies3.jpeg"
+            ]
+        },
+        {
+            "id": 4,
+            "title":"drink",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/drink1.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/drink2.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/drink3.jpeg"
+                ]
+        },
+        {
+            "id": 5,
+            "title":"food",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/food1.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/food2.png",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/food3.png",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/food4.png",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/food5.png"
+                ]
+        },
+        {
+            "id": 6,
+            "title":"jamtangan",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/jam1.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/jam2.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/jam3.jpeg"
+            ]
+        },
+        {
+            "id": 7,
+            "title":"parfum",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/parfum1.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/parfum2.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/parfum3.jpeg"
+            ]
+        },
+        {
+            "id": 8,
+            "title":"sneakers",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/shoe1.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/shoe2.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/shoe3.jpeg"
+            ]
+        },
+        {
+            "id": 9,
+            "title":"skincare",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/skincare1.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/skincare2.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/skincare3.jpeg"
+            ]
+        },
+        {
+            "id": 10,
+            "title":"tape",
+            "images": [
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/tape1.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/tape2.jpeg",
+                "https://raw.githubusercontent.com/rizkymaulanavirdaus/img-api/main/imgbox/tape3.jpeg"
+            ]
+        }
+    ]
+}
